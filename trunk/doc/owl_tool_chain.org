@@ -1,0 +1,7 @@
+* merging queries file with imports
+
+owltools --use-catalog-xml FBbt_query_classes.owl --merge-import-closure -o file://`pwd`/FBbt_query_classes_merged.owl
+
+* pre-reasoning step
+
+  ontology-release-runner FBbt_query_classes_merged.owl --reasoner jfact --relaxed --no-subsets --outdir ....
