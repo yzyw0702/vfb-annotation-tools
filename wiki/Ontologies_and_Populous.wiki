@@ -1,0 +1,3 @@
+The spreadsheets can be loaded directly into [ Populous].  If/when asked to resolve the ontology, choose OWL/FBbt_query_classes_pr.owl.
+
+New query classes should be added to OWL/FBbt_query_classes.owl.
