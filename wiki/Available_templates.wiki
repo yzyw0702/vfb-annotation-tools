@@ -9,7 +9,6 @@ Columns:
 
   * Transgene ID
 Unique ID for transgene - ideally from FlyBase if available
-
   * Transgene name
   * Image URL
 Integration with VFB and Protege will be much easier if the image is stored on a server with a persistent URL.
@@ -20,7 +19,7 @@ Content restricted to ontology terms for anatomical structures (e.g. neuropil, t
 Free text description.
 
 
-individual_adult_brain_neuron_annotation.xls
+== individual_adult_brain_neuron_annotation.xls ==
 
 
   * Image URL	
