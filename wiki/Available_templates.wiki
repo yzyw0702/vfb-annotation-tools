@@ -5,7 +5,7 @@
 
 A spreadsheet for annotating transgene expression in the adult brain.
 
-Columns: 
+=== Columns: ===
 
   * Transgene ID
 Unique ID for transgene - ideally from FlyBase if available
@@ -23,6 +23,7 @@ Free text description.
 
 A spreadsheet for capturing general classifications of adult brain neurons and the location of their various parts.
 
+===Columns === 
 
   * Image URL	
   * Image name	
