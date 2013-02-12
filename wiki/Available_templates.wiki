@@ -21,11 +21,13 @@ Free text description.
 
 == individual_adult_brain_neuron_annotation.xls ==
 
+A spreadsheet for capturing general classifications of adult brain neurons and the location of their various parts.
+
 
   * Image URL	
   * Image name	
   * depicted neuron class	
-Content restricted to ontology terms for neurons that have some part in the adult brain.
+Content restricted to ontology terms for neurons that have some part in the adult brain. (probably should be extended to include more general neuron classes too).
   * neuropil overlapped
 Content restricted to ontology terms for neuropils (e.g. ellipsoid body; medulla layer M2) that are part of the adult brain. No need to add this in addition to location synaptic terminals.
   * location of synaptic terminals
