@@ -122,6 +122,20 @@
             </owl:Class>
         </owl:equivalentClass>
     </owl:Class>
+    
+
+
+    <!-- http://purl.obolibrary.org/obo/FBbtQuery_0000004 -->
+
+    <owl:Class rdf:about="http://purl.obolibrary.org/obo/FBbtQuery_0000004">
+        <rdfs:label xml:lang="en">Query - overlaps adult brain</rdfs:label>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://purl.obolibrary.org/obo/RO_0002131"/>
+                <owl:someValuesFrom rdf:resource="http://purl.obolibrary.org/obo/FBbt_00003624"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+    </owl:Class>
 </rdf:RDF>
 
 
